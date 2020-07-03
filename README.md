@@ -1,6 +1,6 @@
 # COVID-19 Hackathon 3: Ecosystem Services
 ## Team MeLLT
-Describing how landscape structure and human behaviour change have influenced COVID-19 cases. We present a [video explanation](https://www.youtube.com/watch?v=3WPH1QiaB-E&feature=youtu.be), as well as a [comprehensive report](https://github.com/GitTFJ/MeLLT_COVID-19_ecosystem_service_hackathon/blob/master/Report.pdf) explaining our findings and recommendations. For additional information see our [supplementary material]()
+Describing how landscape structure and human behaviour change have influenced COVID-19 cases. We present a [video explanation](https://www.youtube.com/watch?v=3WPH1QiaB-E&feature=youtu.be), as well as a [comprehensive report](https://github.com/GitTFJ/MeLLT_COVID-19_ecosystem_service_hackathon/blob/master/Report.pdf) explaining our findings and recommendations. For additional information see our [supplementary material](https://github.com/GitTFJ/MeLLT_COVID-19_ecosystem_service_hackathon/blob/master/Supplementary.pdf)
 
 
 
