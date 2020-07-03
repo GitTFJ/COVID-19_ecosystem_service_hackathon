@@ -1,0 +1,316 @@
+"","name","region_code","region","la_code","region2","name2"
+"1","Adur","E12000008","South East","E07000223",7,3
+"2","Allerdale","E12000002","North West","E07000026",5,4
+"3","Amber Valley","E12000004","East Midlands","E07000032",1,5
+"4","Arun","E12000008","South East","E07000224",7,8
+"5","Ashfield","E12000004","East Midlands","E07000170",1,9
+"6","Ashford","E12000008","South East","E07000105",7,10
+"7","Aylesbury Vale","E12000008","South East","E07000004",7,11
+"8","Babergh","E12000006","East of England","E07000200",2,12
+"9","Barking and Dagenham","E12000007","London","E09000002",3,13
+"10","Barnet","E12000007","London","E09000003",3,14
+"11","Barnsley","E12000003","Yorkshire and The Humber","E08000016",11,15
+"12","Barrow-in-Furness","E12000002","North West","E07000027",5,16
+"13","Basildon","E12000006","East of England","E07000066",2,17
+"14","Basingstoke and Deane","E12000008","South East","E07000084",7,18
+"15","Bassetlaw","E12000004","East Midlands","E07000171",1,19
+"16","Bath and North East Somerset","E12000009","South West","E06000022",8,20
+"17","Bedford","E12000006","East of England","E06000055",2,21
+"18","Bexley","E12000007","London","E09000004",3,22
+"19","Birmingham","E12000005","West Midlands","E08000025",10,23
+"20","Blaby","E12000004","East Midlands","E07000129",1,24
+"21","Blackburn with Darwen","E12000002","North West","E06000008",5,25
+"22","Blackpool","E12000002","North West","E06000009",5,26
+"23","Bolsover","E12000004","East Midlands","E07000033",1,28
+"24","Bolton","E12000002","North West","E08000001",5,29
+"25","Boston","E12000004","East Midlands","E07000136",1,30
+"26","Bournemouth, Christchurch and Poole","E12000009","South West","E06000058",8,31
+"27","Bracknell Forest","E12000008","South East","E06000036",7,32
+"28","Bradford","E12000003","Yorkshire and The Humber","E08000032",11,33
+"29","Braintree","E12000006","East of England","E07000067",2,34
+"30","Breckland","E12000006","East of England","E07000143",2,35
+"31","Brent","E12000007","London","E09000005",3,36
+"32","Brentwood","E12000006","East of England","E07000068",2,37
+"33","Brighton and Hove","E12000008","South East","E06000043",7,39
+"34","Bristol, City of","E12000009","South West","E06000023",8,40
+"35","Broadland","E12000006","East of England","E07000144",2,41
+"36","Bromley","E12000007","London","E09000006",3,42
+"37","Bromsgrove","E12000005","West Midlands","E07000234",10,43
+"38","Broxbourne","E12000006","East of England","E07000095",2,44
+"39","Broxtowe","E12000004","East Midlands","E07000172",1,45
+"40","Burnley","E12000002","North West","E07000117",5,46
+"41","Bury","E12000002","North West","E08000002",5,47
+"42","Calderdale","E12000003","Yorkshire and The Humber","E08000033",11,49
+"43","Cambridge","E12000006","East of England","E07000008",2,50
+"44","Camden","E12000007","London","E09000007",3,51
+"45","Cannock Chase","E12000005","West Midlands","E07000192",10,52
+"46","Canterbury","E12000008","South East","E07000106",7,53
+"47","Carlisle","E12000002","North West","E07000028",5,55
+"48","Castle Point","E12000006","East of England","E07000069",2,57
+"49","Central Bedfordshire","E12000006","East of England","E06000056",2,58
+"50","Charnwood","E12000004","East Midlands","E07000130",1,60
+"51","Chelmsford","E12000006","East of England","E07000070",2,61
+"52","Cheltenham","E12000009","South West","E07000078",8,62
+"53","Cherwell","E12000008","South East","E07000177",7,63
+"54","Cheshire East","E12000002","North West","E06000049",5,64
+"55","Cheshire West and Chester","E12000002","North West","E06000050",5,65
+"56","Chesterfield","E12000004","East Midlands","E07000034",1,66
+"57","Chichester","E12000008","South East","E07000225",7,67
+"58","Chiltern","E12000008","South East","E07000005",7,68
+"59","Chorley","E12000002","North West","E07000118",5,69
+"60","City of London","E12000007","London","E09000001",3,71
+"61","Colchester","E12000006","East of England","E07000071",2,73
+"62","Copeland","E12000002","North West","E07000029",5,75
+"63","Corby","E12000004","East Midlands","E07000150",1,76
+"64","Cotswold","E12000009","South West","E07000079",8,78
+"65","County Durham","E12000001","North East","E06000047",4,79
+"66","Coventry","E12000005","West Midlands","E08000026",10,80
+"67","Craven","E12000003","Yorkshire and The Humber","E07000163",11,81
+"68","Crawley","E12000008","South East","E07000226",7,82
+"69","Croydon","E12000007","London","E09000008",3,83
+"70","Dacorum","E12000006","East of England","E07000096",2,84
+"71","Darlington","E12000001","North East","E06000005",4,85
+"72","Dartford","E12000008","South East","E07000107",7,86
+"73","Daventry","E12000004","East Midlands","E07000151",1,87
+"74","Derby","E12000004","East Midlands","E06000015",1,89
+"75","Derbyshire Dales","E12000004","East Midlands","E07000035",1,90
+"76","Doncaster","E12000003","Yorkshire and The Humber","E08000017",11,91
+"77","Dorset","E12000009","South West","E06000059",8,92
+"78","Dover","E12000008","South East","E07000108",7,93
+"79","Dudley","E12000005","West Midlands","E08000027",10,94
+"80","Ealing","E12000007","London","E09000009",3,97
+"81","East Cambridgeshire","E12000006","East of England","E07000009",2,99
+"82","East Devon","E12000009","South West","E07000040",8,100
+"83","East Hampshire","E12000008","South East","E07000085",7,102
+"84","East Hertfordshire","E12000006","East of England","E07000242",2,103
+"85","East Lindsey","E12000004","East Midlands","E07000137",1,104
+"86","East Northamptonshire","E12000004","East Midlands","E07000152",1,106
+"87","East Riding of Yorkshire","E12000003","Yorkshire and The Humber","E06000011",11,108
+"88","East Staffordshire","E12000005","West Midlands","E07000193",10,109
+"89","East Suffolk","E12000006","East of England","E07000244",2,110
+"90","Eastbourne","E12000008","South East","E07000061",7,111
+"91","Eastleigh","E12000008","South East","E07000086",7,112
+"92","Eden","E12000002","North West","E07000030",5,113
+"93","Elmbridge","E12000008","South East","E07000207",7,114
+"94","Enfield","E12000007","London","E09000010",3,115
+"95","Epping Forest","E12000006","East of England","E07000072",2,116
+"96","Epsom and Ewell","E12000008","South East","E07000208",7,117
+"97","Erewash","E12000004","East Midlands","E07000036",1,118
+"98","Exeter","E12000009","South West","E07000041",8,119
+"99","Fareham","E12000008","South East","E07000087",7,121
+"100","Fenland","E12000006","East of England","E07000010",2,122
+"101","Folkestone and Hythe","E12000008","South East","E07000112",7,125
+"102","Forest of Dean","E12000009","South West","E07000080",8,126
+"103","Fylde","E12000002","North West","E07000119",5,127
+"104","Gateshead","E12000001","North East","E08000037",4,128
+"105","Gedling","E12000004","East Midlands","E07000173",1,129
+"106","Gloucester","E12000009","South West","E07000081",8,131
+"107","Gosport","E12000008","South East","E07000088",7,132
+"108","Gravesham","E12000008","South East","E07000109",7,133
+"109","Great Yarmouth","E12000006","East of England","E07000145",2,134
+"110","Greenwich","E12000007","London","E09000011",3,135
+"111","Guildford","E12000008","South East","E07000209",7,136
+"112","Hackney","E12000007","London","E09000012",3,138
+"113","Halton","E12000002","North West","E06000006",5,139
+"114","Hambleton","E12000003","Yorkshire and The Humber","E07000164",11,140
+"115","Hammersmith and Fulham","E12000007","London","E09000013",3,141
+"116","Harborough","E12000004","East Midlands","E07000131",1,142
+"117","Haringey","E12000007","London","E09000014",3,143
+"118","Harlow","E12000006","East of England","E07000073",2,144
+"119","Harrogate","E12000003","Yorkshire and The Humber","E07000165",11,145
+"120","Harrow","E12000007","London","E09000015",3,146
+"121","Hart","E12000008","South East","E07000089",7,147
+"122","Hartlepool","E12000001","North East","E06000001",4,148
+"123","Hastings","E12000008","South East","E07000062",7,149
+"124","Havant","E12000008","South East","E07000090",7,150
+"125","Havering","E12000007","London","E09000016",3,151
+"126","Herefordshire, County of","E12000005","West Midlands","E06000019",10,152
+"127","Hertsmere","E12000006","East of England","E07000098",2,153
+"128","High Peak","E12000004","East Midlands","E07000037",1,154
+"129","Hillingdon","E12000007","London","E09000017",3,156
+"130","Hinckley and Bosworth","E12000004","East Midlands","E07000132",1,157
+"131","Horsham","E12000008","South East","E07000227",7,158
+"132","Hounslow","E12000007","London","E09000018",3,159
+"133","Huntingdonshire","E12000006","East of England","E07000011",2,160
+"134","Hyndburn","E12000002","North West","E07000120",5,161
+"135","Ipswich","E12000006","East of England","E07000202",2,163
+"136","Isle of Wight","E12000008","South East","E06000046",7,165
+"137","Islington","E12000007","London","E09000019",3,167
+"138","Kensington and Chelsea","E12000007","London","E09000020",3,168
+"139","Kettering","E12000004","East Midlands","E07000153",1,169
+"140","King's Lynn and West Norfolk","E12000006","East of England","E07000146",2,170
+"141","Kingston upon Hull, City of","E12000003","Yorkshire and The Humber","E06000010",11,171
+"142","Kingston upon Thames","E12000007","London","E09000021",3,172
+"143","Kirklees","E12000003","Yorkshire and The Humber","E08000034",11,173
+"144","Knowsley","E12000002","North West","E08000011",5,174
+"145","Lambeth","E12000007","London","E09000022",3,175
+"146","Lancaster","E12000002","North West","E07000121",5,176
+"147","Leeds","E12000003","Yorkshire and The Humber","E08000035",11,177
+"148","Leicester","E12000004","East Midlands","E06000016",1,178
+"149","Lewes","E12000008","South East","E07000063",7,179
+"150","Lewisham","E12000007","London","E09000023",3,180
+"151","Lichfield","E12000005","West Midlands","E07000194",10,181
+"152","Lincoln","E12000004","East Midlands","E07000138",1,182
+"153","Liverpool","E12000002","North West","E08000012",5,183
+"154","Luton","E12000006","East of England","E06000032",2,184
+"155","Maidstone","E12000008","South East","E07000110",7,185
+"156","Maldon","E12000006","East of England","E07000074",2,186
+"157","Malvern Hills","E12000005","West Midlands","E07000235",10,187
+"158","Manchester","E12000002","North West","E08000003",5,188
+"159","Mansfield","E12000004","East Midlands","E07000174",1,189
+"160","Medway","E12000008","South East","E06000035",7,190
+"161","Melton","E12000004","East Midlands","E07000133",1,191
+"162","Mendip","E12000009","South West","E07000187",8,192
+"163","Merton","E12000007","London","E09000024",3,194
+"164","Mid Devon","E12000009","South West","E07000042",8,195
+"165","Mid Suffolk","E12000006","East of England","E07000203",2,196
+"166","Mid Sussex","E12000008","South East","E07000228",7,197
+"167","Middlesbrough","E12000001","North East","E06000002",4,198
+"168","Milton Keynes","E12000008","South East","E06000042",7,200
+"169","Mole Valley","E12000008","South East","E07000210",7,201
+"170","New Forest","E12000008","South East","E07000091",7,206
+"171","Newark and Sherwood","E12000004","East Midlands","E07000175",1,207
+"172","Newcastle upon Tyne","E12000001","North East","E08000021",4,209
+"173","Newcastle-under-Lyme","E12000005","West Midlands","E07000195",10,208
+"174","Newham","E12000007","London","E09000025",3,210
+"175","North Devon","E12000009","South West","E07000043",8,213
+"176","North East Derbyshire","E12000004","East Midlands","E07000038",1,214
+"177","North East Lincolnshire","E12000003","Yorkshire and The Humber","E06000012",11,215
+"178","North Hertfordshire","E12000006","East of England","E07000099",2,216
+"179","North Kesteven","E12000004","East Midlands","E07000139",1,217
+"180","North Lincolnshire","E12000003","Yorkshire and The Humber","E06000013",11,219
+"181","North Norfolk","E12000006","East of England","E07000147",2,220
+"182","North Somerset","E12000009","South West","E06000024",8,221
+"183","North Tyneside","E12000001","North East","E08000022",4,222
+"184","North Warwickshire","E12000005","West Midlands","E07000218",10,223
+"185","North West Leicestershire","E12000004","East Midlands","E07000134",1,224
+"186","Northampton","E12000004","East Midlands","E07000154",1,225
+"187","Northumberland","E12000001","North East","E06000057",4,226
+"188","Norwich","E12000006","East of England","E07000148",2,227
+"189","Nottingham","E12000004","East Midlands","E06000018",1,228
+"190","Nuneaton and Bedworth","E12000005","West Midlands","E07000219",10,229
+"191","Oadby and Wigston","E12000004","East Midlands","E07000135",1,230
+"192","Oldham","E12000002","North West","E08000004",5,231
+"193","Oxford","E12000008","South East","E07000178",7,233
+"194","Pendle","E12000002","North West","E07000122",5,235
+"195","Peterborough","E12000006","East of England","E06000031",2,237
+"196","Plymouth","E12000009","South West","E06000026",8,238
+"197","Portsmouth","E12000008","South East","E06000044",7,239
+"198","Preston","E12000002","North West","E07000123",5,241
+"199","Reading","E12000008","South East","E06000038",7,242
+"200","Redbridge","E12000007","London","E09000026",3,243
+"201","Redcar and Cleveland","E12000001","North East","E06000003",4,244
+"202","Redditch","E12000005","West Midlands","E07000236",10,245
+"203","Reigate and Banstead","E12000008","South East","E07000211",7,246
+"204","Ribble Valley","E12000002","North West","E07000124",5,249
+"205","Richmond upon Thames","E12000007","London","E09000027",3,250
+"206","Richmondshire","E12000003","Yorkshire and The Humber","E07000166",11,251
+"207","Rochdale","E12000002","North West","E08000005",5,252
+"208","Rochford","E12000006","East of England","E07000075",2,253
+"209","Rossendale","E12000002","North West","E07000125",5,254
+"210","Rother","E12000008","South East","E07000064",7,255
+"211","Rotherham","E12000003","Yorkshire and The Humber","E08000018",11,256
+"212","Rugby","E12000005","West Midlands","E07000220",10,257
+"213","Runnymede","E12000008","South East","E07000212",7,258
+"214","Rushcliffe","E12000004","East Midlands","E07000176",1,259
+"215","Rushmoor","E12000008","South East","E07000092",7,260
+"216","Rutland","E12000004","East Midlands","E06000017",1,261
+"217","Ryedale","E12000003","Yorkshire and The Humber","E07000167",11,262
+"218","Salford","E12000002","North West","E08000006",5,263
+"219","Sandwell","E12000005","West Midlands","E08000028",10,264
+"220","Scarborough","E12000003","Yorkshire and The Humber","E07000168",11,265
+"221","Sedgemoor","E12000009","South West","E07000188",8,267
+"222","Sefton","E12000002","North West","E08000014",5,268
+"223","Selby","E12000003","Yorkshire and The Humber","E07000169",11,269
+"224","Sevenoaks","E12000008","South East","E07000111",7,270
+"225","Sheffield","E12000003","Yorkshire and The Humber","E08000019",11,271
+"226","Shropshire","E12000005","West Midlands","E06000051",10,273
+"227","Slough","E12000008","South East","E06000039",7,274
+"228","Solihull","E12000005","West Midlands","E08000029",10,275
+"229","Somerset West and Taunton","E12000009","South West","E07000246",8,276
+"230","South Bucks","E12000008","South East","E07000006",7,278
+"231","South Cambridgeshire","E12000006","East of England","E07000012",2,279
+"232","South Derbyshire","E12000004","East Midlands","E07000039",1,280
+"233","South Gloucestershire","E12000009","South West","E06000025",8,281
+"234","South Hams","E12000009","South West","E07000044",8,282
+"235","South Holland","E12000004","East Midlands","E07000140",1,283
+"236","South Kesteven","E12000004","East Midlands","E07000141",1,284
+"237","South Lakeland","E12000002","North West","E07000031",5,285
+"238","South Norfolk","E12000006","East of England","E07000149",2,287
+"239","South Northamptonshire","E12000004","East Midlands","E07000155",1,288
+"240","South Oxfordshire","E12000008","South East","E07000179",7,289
+"241","South Ribble","E12000002","North West","E07000126",5,290
+"242","South Somerset","E12000009","South West","E07000189",8,291
+"243","South Staffordshire","E12000005","West Midlands","E07000196",10,292
+"244","South Tyneside","E12000001","North East","E08000023",4,293
+"245","Southampton","E12000008","South East","E06000045",7,294
+"246","Southend-on-Sea","E12000006","East of England","E06000033",2,295
+"247","Southwark","E12000007","London","E09000028",3,296
+"248","Spelthorne","E12000008","South East","E07000213",7,297
+"249","St Albans","E12000006","East of England","E07000240",2,298
+"250","St. Helens","E12000002","North West","E08000013",5,299
+"251","Stafford","E12000005","West Midlands","E07000197",10,300
+"252","Staffordshire Moorlands","E12000005","West Midlands","E07000198",10,301
+"253","Stevenage","E12000006","East of England","E07000243",2,302
+"254","Stockport","E12000002","North West","E08000007",5,304
+"255","Stockton-on-Tees","E12000001","North East","E06000004",4,305
+"256","Stoke-on-Trent","E12000005","West Midlands","E06000021",10,306
+"257","Stratford-on-Avon","E12000005","West Midlands","E07000221",10,307
+"258","Stroud","E12000009","South West","E07000082",8,308
+"259","Sunderland","E12000001","North East","E08000024",4,309
+"260","Surrey Heath","E12000008","South East","E07000214",7,310
+"261","Sutton","E12000007","London","E09000029",3,311
+"262","Swale","E12000008","South East","E07000113",7,312
+"263","Swindon","E12000009","South West","E06000030",8,314
+"264","Tameside","E12000002","North West","E08000008",5,315
+"265","Tamworth","E12000005","West Midlands","E07000199",10,316
+"266","Tandridge","E12000008","South East","E07000215",7,317
+"267","Teignbridge","E12000009","South West","E07000045",8,318
+"268","Telford and Wrekin","E12000005","West Midlands","E06000020",10,319
+"269","Tendring","E12000006","East of England","E07000076",2,320
+"270","Test Valley","E12000008","South East","E07000093",7,321
+"271","Tewkesbury","E12000009","South West","E07000083",8,322
+"272","Thanet","E12000008","South East","E07000114",7,323
+"273","Three Rivers","E12000006","East of England","E07000102",2,324
+"274","Thurrock","E12000006","East of England","E06000034",2,325
+"275","Tonbridge and Malling","E12000008","South East","E07000115",7,326
+"276","Torbay","E12000009","South West","E06000027",8,327
+"277","Torridge","E12000009","South West","E07000046",8,329
+"278","Tower Hamlets","E12000007","London","E09000030",3,330
+"279","Trafford","E12000002","North West","E08000009",5,331
+"280","Tunbridge Wells","E12000008","South East","E07000116",7,332
+"281","Uttlesford","E12000006","East of England","E07000077",2,333
+"282","Vale of White Horse","E12000008","South East","E07000180",7,335
+"283","Wakefield","E12000003","Yorkshire and The Humber","E08000036",11,336
+"284","Walsall","E12000005","West Midlands","E08000030",10,337
+"285","Waltham Forest","E12000007","London","E09000031",3,338
+"286","Wandsworth","E12000007","London","E09000032",3,339
+"287","Warrington","E12000002","North West","E06000007",5,340
+"288","Warwick","E12000005","West Midlands","E07000222",10,341
+"289","Watford","E12000006","East of England","E07000103",2,342
+"290","Waverley","E12000008","South East","E07000216",7,343
+"291","Wealden","E12000008","South East","E07000065",7,344
+"292","Wellingborough","E12000004","East Midlands","E07000156",1,345
+"293","Welwyn Hatfield","E12000006","East of England","E07000241",2,346
+"294","West Berkshire","E12000008","South East","E06000037",7,347
+"295","West Devon","E12000009","South West","E07000047",8,348
+"296","West Lancashire","E12000002","North West","E07000127",5,350
+"297","West Lindsey","E12000004","East Midlands","E07000142",1,351
+"298","West Oxfordshire","E12000008","South East","E07000181",7,353
+"299","West Suffolk","E12000006","East of England","E07000245",2,354
+"300","Westminster","E12000007","London","E09000033",3,355
+"301","Wigan","E12000002","North West","E08000010",5,356
+"302","Wiltshire","E12000009","South West","E06000054",8,357
+"303","Winchester","E12000008","South East","E07000094",7,358
+"304","Windsor and Maidenhead","E12000008","South East","E06000040",7,359
+"305","Wirral","E12000002","North West","E08000015",5,360
+"306","Woking","E12000008","South East","E07000217",7,361
+"307","Wokingham","E12000008","South East","E06000041",7,362
+"308","Wolverhampton","E12000005","West Midlands","E08000031",10,363
+"309","Worcester","E12000005","West Midlands","E07000237",10,364
+"310","Worthing","E12000008","South East","E07000229",7,365
+"311","Wychavon","E12000005","West Midlands","E07000238",10,367
+"312","Wycombe","E12000008","South East","E07000007",7,368
+"313","Wyre","E12000002","North West","E07000128",5,369
+"314","Wyre Forest","E12000005","West Midlands","E07000239",10,370
+"315","York","E12000003","Yorkshire and The Humber","E06000014",11,371
