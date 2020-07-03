@@ -101,6 +101,7 @@ for(b in 1:nrow(crds_comb)){
 }
 crds_comb = cbind(crds_comb, green_cnt)
 dir.create("data/produced")
+dir.create("plots")
 #save greenness and fragmentation files to newly produced directory. Fragmentation reprorts a variety of statistics. See FRAGSTATS for descriptions
 write.csv(crds_comb, "data/produced/green_sum.csv")
 write.csv(green_cmb, "data/produced/frag.csv")
